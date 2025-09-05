@@ -1,5 +1,5 @@
 import React from 'react'
-import { QRCodeSVG } from 'qrcode.react'
+// import { QRCodeSVG } from 'qrcode.react'
 import { useLanguage } from '../hooks/useLanguage'
 import img1 from '../assets/400.png'
 import img2 from '../assets/1500.png'
@@ -12,9 +12,9 @@ const Donation: React.FC = () => {
   const { t } = useLanguage()
   
   // Sample UPI payment URLs for different amounts
-  const generateUPIUrl = (amount: number) => {
-    return `upi://pay?pa=punjabrelief@upi&pn=Punjab Relief Fund&am=${amount}&cu=INR&tn=Punjab Flood Relief Donation`
-  }
+  // const generateUPIUrl = (amount: number) => {
+  //   return `upi://pay?pa=punjabrelief@upi&pn=Punjab Relief Fund&am=${amount}&cu=INR&tn=Punjab Flood Relief Donation`
+  // }
 
   return (
     <section id="donate" className="donation">
