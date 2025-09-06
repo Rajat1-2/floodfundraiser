@@ -12,7 +12,7 @@ export const translations = {
     'hero.title': ' Punjab Floods Emergency Relief',
     'hero.subtitle': 'The Beas and Satluj River has breached its danger mark. Thousands of families in Punjab need your immediate help. Join us in providing emergency relief to flood-affected communities.',
     'hero.donateBtn': '🤲 Donate Now',
-    'hero.learnMore': 'Learn More',
+    'hero.learnMore': 'Learn More ->',
     
     // Stats
     'stats.families': 'Families Affected',

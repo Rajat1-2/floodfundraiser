@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
           {t('hero.subtitle')}
         </p>
         <div className="hero-buttons">
-          <a href="#donate" className="btn btn-primary">
+          <a href="#donate" id='xyz' className="btn btn-primary">
             {t('hero.donateBtn')}
           </a>
           <a href="#campaign" className="btn btn-secondary">

@@ -35,19 +35,19 @@ const Gallery: React.FC = () => {
             className="btn btn-secondary"
             onClick={() => setCurrent((current - 1 + galleryImages.length) % galleryImages.length)}
           >
-            ‹ Prev
+            ‹ 
           </button>
           <button
             className="btn btn-secondary"
             onClick={() => setCurrent((current + 1) % galleryImages.length)}
           >
-            Next ›
+             ›
           </button>
         </div>
       </div>
-      <div style={{ marginTop: '10px', color: '#555' }}>
+      {/* <div style={{ marginTop: '10px', color: '#555' }}>
         {current + 1} / {galleryImages.length}
-      </div>
+      </div> */}
     </section>
   )
 // ...existing
