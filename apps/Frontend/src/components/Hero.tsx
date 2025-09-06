@@ -1,12 +1,12 @@
 import React from 'react'
 import { useLanguage } from '../hooks/useLanguage'
-import bg from '../assets/punjab_flood.avif'
+// import bg from '../assets/punjab_flood.avif'
 
 const Hero: React.FC = () => {
   const { t } = useLanguage()
   
   const style: React.CSSProperties = {
-    backgroundImage: `linear-gradient(rgba(12,18,28,0.55), rgba(12,18,28,0.55)), url(${bg})`,
+    backgroundImage: `linear-gradient(rgba(12,18,28,0.55), rgba(12,18,28,0.55)), `,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
   }
