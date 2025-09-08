@@ -20,7 +20,6 @@ const Gallery: React.FC = () => {
     return () => clearInterval(interval)
   }, [])
 
-  // ...existing code...
   return (
     <section className="gallery" style={{ padding: '40px 0', textAlign: 'center', background: '#f8f9fa' }}>
       <h2 style={{ marginBottom: '20px' }}>Some Glances of our Campaigns</h2>
@@ -50,6 +49,6 @@ const Gallery: React.FC = () => {
       </div> */}
     </section>
   )
-// ...existing
+
 }
 export default Gallery

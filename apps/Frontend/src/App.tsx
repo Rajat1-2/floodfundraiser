@@ -7,6 +7,7 @@ import About from './components/About'
 import Campaign from './components/Campaign'
 import Donation from './components/Donation'
 import Footer from './components/Footer'
+import DonationNowButton from './components/DonateNowButton'
 import './App.css'
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Campaign />
         <Donation />
         <Footer />
+        <DonationNowButton />
       </div>
     </LanguageProvider>
   )
