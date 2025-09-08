@@ -1,5 +1,4 @@
-import React from 'react'
-import { useLanguage } from '../hooks/useLanguage'
+
 
 const DonateNowButton = () => (
   <button className="donate-now-btn" onClick={() => window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' })}>
