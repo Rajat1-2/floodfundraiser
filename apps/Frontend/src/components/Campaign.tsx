@@ -34,11 +34,11 @@ const Campaign: React.FC = () => {
             </p>
             
             <div className="progress-bar">
-              <div className="progress-fill" style={{ width: '5%' }}></div>
+              <div className="progress-fill" style={{ width: '23%' }}></div>
             </div>
             
             <div className="campaign-stats">
-              <span className="raised-amount">₹22,500 {t('campaign.raised')}</span>
+              <span className="raised-amount">₹1,20,000 {t('campaign.raised')}</span>
               <span>{t('campaign.goal')}</span>
               <span>2% {t('campaign.complete')}</span>
             </div>

@@ -11,7 +11,7 @@ export const translations = {
     // Hero
     'hero.title': ' Punjab Floods Emergency Relief',
     'hero.subtitle': 'The Beas and Satluj River has breached its danger mark. Thousands of families in Punjab need your immediate help. Join us in providing emergency relief to flood-affected communities.',
-    'hero.donateBtn': '🤲 Donate Now',
+    'hero.donateBtn': '🩵 Donate Now',
     'hero.learnMore': 'Learn More ->',
     
     // Stats
@@ -52,7 +52,7 @@ export const translations = {
     // Donation
     'donation.title': '100% of Your Donation Goes to Flood Relief',
     'donation.subtitle': 'Choose your donation amount and scan the QR code to contribute immediately',
-    'donation.helpTitle': '🤲 Help Punjab Flood Victims',
+    'donation.helpTitle': '🩵 Help Punjab Flood Victims',
     'donation.helpDesc': 'Every rupee you donate goes directly to providing emergency relief to flood-affected families in Punjab. Your contribution helps us deliver:',
     'donation.help1': 'Emergency food packets and clean drinking water',
     'donation.help2': 'Temporary shelter materials and bedding',
@@ -99,7 +99,7 @@ export const translations = {
     // Hero
     'hero.title': '🌊 पंजाब बाढ़ आपातकालीन राहत',
     'hero.subtitle': 'ब्यास नदी ने खतरे का निशान पार कर लिया है। पंजाब के हजारों परिवारों को आपकी तत्काल मदद की जरूरत है। बाढ़ प्रभावित समुदायों को आपातकालीन राहत प्रदान करने में हमारे साथ जुड़ें।',
-    'hero.donateBtn': '🤲 अभी दान करें',
+    'hero.donateBtn': '🩵 अभी दान करें',
     'hero.learnMore': 'और जानें',
     
     // Stats
@@ -115,7 +115,7 @@ export const translations = {
     'about.knowMore': 'और जानें →',
     'about.emergency': '🌊 आपातकालीन प्रतिक्रिया',
     'about.emergencyDesc': 'बाढ़ पीड़ितों के लिए तत्काल राहत',
-    'about.community': '🤝 सामुदायिक सहायता',
+    'about.community': '🩵 सामुदायिक सहायता',
     'about.communityDesc': 'तेज़ कार्रवाई के लिए स्वयंसेवकों को एकजुट करना',
     
     // Campaign
@@ -138,7 +138,7 @@ export const translations = {
     // Donation
     'donation.title': 'आपका 100% दान बाढ़ राहत में जाता है',
     'donation.subtitle': 'अपनी दान राशि चुनें और तुरंत योगदान के लिए QR कोड स्कैन करें',
-    'donation.helpTitle': '🤲 पंजाब बाढ़ पीड़ितों की मदद करें',
+    'donation.helpTitle': '🩵 पंजाब बाढ़ पीड़ितों की मदद करें',
     'donation.helpDesc': 'आपका दान किया गया हर रुपया सीधे पंजाब में बाढ़ प्रभावित परिवारों को आपातकालीन राहत प्रदान करने में जाता है। आपका योगदान हमें प्रदान करने में मदद करता है:',
     'donation.help1': 'आपातकालीन भोजन पैकेट और स्वच्छ पेयजल',
     'donation.help2': 'अस्थायी आश्रय सामग्री और बिस्तर',

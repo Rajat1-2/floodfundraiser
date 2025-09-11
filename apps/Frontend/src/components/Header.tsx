@@ -9,7 +9,7 @@ const Header: React.FC = () => {
       <div className="container">
         <nav className="nav">
           <a href="#" className="logo">
-            <div className="logo-icon">🤲</div>
+            <div className="logo-icon">🩵</div>
             {t('logo.title')}
           </a>
           <ul className="nav-links">
@@ -33,4 +33,4 @@ const Header: React.FC = () => {
   )
 }
 
-export default Header
+export default Header;

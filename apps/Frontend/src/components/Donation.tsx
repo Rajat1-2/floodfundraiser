@@ -62,7 +62,7 @@ const Donation: React.FC = () => {
               </div>
               
               <div className="qr-item">
-                <div className="qr-amount">₹1,500</div>
+                <div className="qr-amount">₹1,500 </div>
                 <div className="qr-code">
                   <img src={img2} alt="₹1500 Donation QR Code" style={{ width: '120px', height: '120px' }} />
                 </div>
